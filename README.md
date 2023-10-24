@@ -26,11 +26,12 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Preview
 
-![Cordel-Moderno-clone](https://github.com/f5-nascimento/Sistok/assets/28812188/0eeb7054-37d7-40bd-abb3-002fbfeb3d88)
+![Cordel-Moderno-clone] ![Captura de tela 2023-10-24 174555](https://github.com/Eduardo1859/Cordel-Moderno-clone/assets/140715388/daa275ac-2217-4915-9fe8-b721a44512d4)
+
 
 
 ## Deploy
 
-O projeto está disponível em [Cordel-Moderno-clone no Vercel]() para visualização.
+O projeto está disponível em [Cordel-Moderno-clone no Vercel](https://cordel-moderno-clone.vercel.app/) para visualização.
 
 Seja bem-vindo ao Cordel-Moderno-clone, e sinta-se à vontade para contribuir ou entrar em contato conosco!
